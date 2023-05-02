@@ -73,7 +73,7 @@
             <artifactId>tools</artifactId>
             <version>19.0.1</version>
             <scope>system</scope>
-            <systemPath>C:\Program Files\Java\jdk-19\lib\tools.jar</systemPath>
+            <systemPath>C:\Program Files\Java\jdk-19\lib\jrt-fs.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
