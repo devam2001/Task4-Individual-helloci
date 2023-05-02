@@ -24,7 +24,7 @@ public class AppTest {
     @Ignore("Not implemented yet")
     @Test
     public void testShouldBeSKipped() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
